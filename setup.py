@@ -7,7 +7,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="securescanner",
     version=__version__,
-    author="BReye Foka",
+    author="Breye Foka",
     author_email="breyefokalagloire@gmail.com",
     description="Advanced Security Port Scanner and Vulnerability Assessment Tool",
     long_description=long_description,

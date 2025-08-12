@@ -25,7 +25,7 @@ pip install securescanner
 Or install from source:
 
 ```bash
-git clone https://github.com/yourusername/securescanner.git
+git clone https://github.com/BreyeFoka/securescanner.git
 cd securescanner
 pip install .
 ```
@@ -116,7 +116,7 @@ Features like stealth mode and rate limiting are provided to help avoid triggeri
 ### Setting up development environment
 
 ```bash
-git clone https://github.com/yourusername/securescanner.git
+git clone https://github.com/BreyeFoka/securescanner.git
 cd securescanner
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
@@ -165,6 +165,6 @@ This project is actively maintained and part of a cybersecurity learning and dem
 For questions, feature requests, or bug reports, please:
 
 1. Open an issue in the GitHub repository
-2. Contact the maintainer at [your.email@example.com](mailto:your.email@example.com)
+2. Contact the maintainer at [breyefokalagloire@gmail.com](mailto:breyefokalagloire@gmail.com)
 
-Project Repository: [Security Port Scanner on GitHub](https://github.com/yourusername/securescanner)
+Project Repository: [Security Port Scanner on GitHub](https://github.com/BreyeFoka/securescanner)
