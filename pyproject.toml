@@ -1,0 +1,45 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "securescanner"
+version = "0.1.0"
+description = "Advanced Security Port Scanner and Vulnerability Assessment Tool"
+readme = "README.md"
+authors = [
+    { name = "Breye Foka", email = "breyefokalagloire@gmail.com" }
+]
+license = { file = "LICENSE" }
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Environment :: Console",
+    "Intended Audience :: Information Technology",
+    "Intended Audience :: System Administrators",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Topic :: Security",
+    "Topic :: System :: Networking :: Monitoring",
+]
+keywords = ["security", "port scanner", "network", "vulnerability", "assessment"]
+dependencies = [
+    "ipaddress>=1.0.23",
+]
+requires-python = ">=3.7"
+
+[project.urls]
+Homepage = "https://github.com/BreyeFoka/securescanner"
+Repository = "https://github.com/BreyeFoka/securescanner"
+Issues = "https://github.com/BreyeFoka/securescanner/issues"
+
+[project.scripts]
+securescanner = "securescanner.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["securescanner"]

@@ -1,0 +1,45 @@
+2025-08-13 03:12:19,623 - INFO - running egg_info
+2025-08-13 03:12:19,628 - INFO - creating securescanner.egg-info
+2025-08-13 03:12:19,629 - INFO - writing securescanner.egg-info\PKG-INFO
+2025-08-13 03:12:19,632 - INFO - writing dependency_links to securescanner.egg-info\dependency_links.txt
+2025-08-13 03:12:19,634 - INFO - writing entry points to securescanner.egg-info\entry_points.txt
+2025-08-13 03:12:19,635 - INFO - writing requirements to securescanner.egg-info\requires.txt
+2025-08-13 03:12:19,637 - INFO - writing top-level names to securescanner.egg-info\top_level.txt
+2025-08-13 03:12:19,638 - INFO - writing manifest file 'securescanner.egg-info\SOURCES.txt'
+2025-08-13 03:12:19,710 - INFO - reading manifest file 'securescanner.egg-info\SOURCES.txt'
+2025-08-13 03:12:19,711 - INFO - adding license file 'LICENSE'
+2025-08-13 03:12:19,712 - INFO - writing manifest file 'securescanner.egg-info\SOURCES.txt'
+2025-08-13 03:12:20,350 - INFO - running sdist
+2025-08-13 03:12:20,351 - INFO - running egg_info
+2025-08-13 03:12:20,385 - INFO - writing securescanner.egg-info\PKG-INFO
+2025-08-13 03:12:20,389 - INFO - writing dependency_links to securescanner.egg-info\dependency_links.txt
+2025-08-13 03:12:20,390 - INFO - writing entry points to securescanner.egg-info\entry_points.txt
+2025-08-13 03:12:20,392 - INFO - writing requirements to securescanner.egg-info\requires.txt
+2025-08-13 03:12:20,394 - INFO - writing top-level names to securescanner.egg-info\top_level.txt
+2025-08-13 03:12:20,427 - INFO - reading manifest file 'securescanner.egg-info\SOURCES.txt'
+2025-08-13 03:12:20,445 - INFO - adding license file 'LICENSE'
+2025-08-13 03:12:20,448 - INFO - writing manifest file 'securescanner.egg-info\SOURCES.txt'
+2025-08-13 03:12:20,450 - INFO - running check
+2025-08-13 03:12:20,490 - INFO - creating securescanner-0.1.0
+2025-08-13 03:12:20,492 - INFO - creating securescanner-0.1.0\securescanner
+2025-08-13 03:12:20,494 - INFO - creating securescanner-0.1.0\securescanner.egg-info
+2025-08-13 03:12:20,495 - INFO - creating securescanner-0.1.0\tests
+2025-08-13 03:12:20,497 - INFO - copying files to securescanner-0.1.0...
+2025-08-13 03:12:20,500 - INFO - copying LICENSE -> securescanner-0.1.0
+2025-08-13 03:12:20,505 - INFO - copying README.md -> securescanner-0.1.0
+2025-08-13 03:12:20,508 - INFO - copying setup.py -> securescanner-0.1.0
+2025-08-13 03:12:20,512 - INFO - copying securescanner\__init__.py -> securescanner-0.1.0\securescanner
+2025-08-13 03:12:20,514 - INFO - copying securescanner\cli.py -> securescanner-0.1.0\securescanner
+2025-08-13 03:12:20,519 - INFO - copying securescanner\scanner.py -> securescanner-0.1.0\securescanner
+2025-08-13 03:12:20,522 - INFO - copying securescanner\version.py -> securescanner-0.1.0\securescanner
+2025-08-13 03:12:20,524 - INFO - copying securescanner.egg-info\PKG-INFO -> securescanner-0.1.0\securescanner.egg-info
+2025-08-13 03:12:20,555 - INFO - copying securescanner.egg-info\SOURCES.txt -> securescanner-0.1.0\securescanner.egg-info
+2025-08-13 03:12:20,558 - INFO - copying securescanner.egg-info\dependency_links.txt -> securescanner-0.1.0\securescanner.egg-info
+2025-08-13 03:12:20,561 - INFO - copying securescanner.egg-info\entry_points.txt -> securescanner-0.1.0\securescanner.egg-info
+2025-08-13 03:12:20,563 - INFO - copying securescanner.egg-info\requires.txt -> securescanner-0.1.0\securescanner.egg-info
+2025-08-13 03:12:20,578 - INFO - copying securescanner.egg-info\top_level.txt -> securescanner-0.1.0\securescanner.egg-info
+2025-08-13 03:12:20,593 - INFO - copying tests\test_scanner.py -> securescanner-0.1.0\tests
+2025-08-13 03:12:20,596 - INFO - copying securescanner.egg-info\SOURCES.txt -> securescanner-0.1.0\securescanner.egg-info
+2025-08-13 03:12:20,603 - INFO - Writing securescanner-0.1.0\setup.cfg
+2025-08-13 03:12:20,605 - INFO - Creating tar archive
+2025-08-13 03:12:20,679 - INFO - removing 'securescanner-0.1.0' (and everything under it)
